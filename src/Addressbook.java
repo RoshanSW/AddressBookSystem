@@ -1,9 +1,9 @@
+import java.util.ArrayList;
+import java.util.List;
 
-public class Addressbook {
 
-	public static void main(String[] args) {
-		System.out.println("Welcome to Address Book managment");
-
-	}
-
+public class Addressbook {	
+	
+	    List<Contact> contactList = new ArrayList<>();
+	
 }
